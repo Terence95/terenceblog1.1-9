@@ -87,8 +87,8 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-	background: #F5DEB3;
-	color:#74777b;
+	/*background: #F5DEB3;*/
+	/*color:#74777b;*/
 	font-size: 1.5em;
 	font-family: "Raleway","Arail"
 }
@@ -121,7 +121,7 @@ Navgaitor
 }
 
 .container{
-	background: url(../img/background.jpg) no-repeat;
+	background: url(../img/background2.jpg) no-repeat;
 	background-size: cover;
 	width: 100%; 
 	height: 100%;
@@ -153,4 +153,12 @@ Navgaitor
 	text-align: center;
 	margin: 0 auto;
 	display: block;
+}
+
+#footer{
+    color: #fff;
+    padding-top: 240px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0.5px;
 }
